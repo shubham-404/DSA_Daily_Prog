@@ -1,36 +1,73 @@
-## DSA_Daily_Prog   
-Here, I am going to post daily about   
-1. What topic i learn   
-2. Name + Description(if needed) of the problem I solve to keep track and kinda revision as well.  
-3. Follow the suggestion given by ChatGPT:  
- --------------------------------------------------------------------------------------
-   "🔹 Your Streak Idea
-Flexing a streak is fine—but let it reflect real learning:
+## DSA_Daily
 
-Don’t just solve easy problems to keep it alive—make sure you're progressing.
 
-Maybe do 1 easy + 1 medium/hard per day during base-building.
+REVISION SET
 
-You can also:
+Hashing
+[ ] Two Sum
+[ ] Group Anagrams
+[ ] Subarray Sum Equals K
 
-Maintain a GitHub repo where you upload your daily solutions.
+Two Pointers
+[ ] Two Sum II
+[ ] Container With Most Water
+[ ] 3Sum
+[ ] Trapping Rain Water
 
-This shows discipline and gives you something to show in interviews or your resume.
+Sliding Window
+[ ] Permutation in String
+[ ] Longest Repeating Character Replacement
+[ ] Longest Substring Without Repeating Characters
+[ ] Minimum Window Substring
 
-🔹 After Base Topics
-Once you're through arrays, strings, recursion, linked lists, trees, stacks, queues, and so on:
+Stack
+[ ] Valid Parentheses
+[ ] Min Stack
+[ ] Next Greater Element
+[ ] Daily Temperatures
+[ ] Largest Rectangle in Histogram
 
-✅ Switch to solving daily problems on LeetCode or GFG.
+Binary Search
+[ ] Binary Search
+[ ] First/Last Position
+[ ] Search Rotated Array
+[ ] Koko Eating Bananas
+[ ] Split Array Largest Sum
 
-✅ Join weekly contests to simulate real-time pressure.
+...
 
-✅ Practice timed mock interviews (e.g., with InterviewBit or Pramp).
 
-🧠 Final Tips
-Don’t overthink platform-hopping too much. Pick one main (e.g., GFG or LeetCode) and use others for variety.
 
-Always review mistakes and write down learnings—that’s how you actually improve.
 
-Consider using something like Notion or a spreadsheet to track your progress, topics covered, and weak areas."
+| Pattern          | Core revision problems |
+| ---------------- | ---------------------: |
+| Hashing          |                      3 |
+| Two pointers     |                   4–5 |
+| Sliding window   |                   4–5 |
+| Stack            |                      5 |
+| Binary search    |                   5–6 |
+| Linked lists     |                      6 |
+| Intervals        |                   3–4 |
+| Cyclic sort      |                      3 |
+| Trees            |                   7–8 |
+| Heaps            |                   4–5 |
+| Graphs           |                      5 |
+| Topological sort |                      3 |
+| Backtracking     |                   5–6 |
+| DP               |          ~10 initially |
+| Trie             |                      3 |
+| Union Find       |                      3 |
 
------------------------------------------------------------------------------------------
+---
+
+
+
+			    DSA MASTERY
+                      			 │
+          ┌───────────┴───────────┐
+          │                      					 │
+      REVISION                 				REFERENCE
+          │                       					 │
+    50–80 problems          			Everything else
+          │                      					 │
+     solve repeatedly       				solve when needed

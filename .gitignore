@@ -1,2 +1,7 @@
-*.exe
 tempCodeRunner*.*
+*.exe
+*.out
+*.o
+__pycache__/
+.vscode/
+.idea/
