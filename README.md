@@ -63,11 +63,11 @@ Binary Search
 
 
 			    DSA MASTERY
-                      			 │
+                      │
           ┌───────────┴───────────┐
-          │                      					 │
-      REVISION                 				REFERENCE
-          │                       					 │
-    50–80 problems          			Everything else
-          │                      					 │
-     solve repeatedly       				solve when needed
+          │                 	  │
+      REVISION                REFERENCE
+          │                       │
+    50–80 problems          Everything else
+          │                 	  │
+     solve repeatedly       solve when needed
