@@ -1,39 +1,39 @@
 ## DSA_Daily
 
 
-REVISION SET
+REVISION SET  
 
-Hashing
-[ ] Two Sum
-[ ] Group Anagrams
-[ ] Subarray Sum Equals K
+Hashing  
+[ ] Two Sum  
+[ ] Group Anagrams  
+[ ] Subarray Sum Equals K  
 
-Two Pointers
-[ ] Two Sum II
-[ ] Container With Most Water
-[ ] 3Sum
-[ ] Trapping Rain Water
+Two Pointers  
+[ ] Two Sum II    
+[ ] Container With Most Water  
+[ ] 3Sum  
+[ ] Trapping Rain Water  
 
-Sliding Window
-[ ] Permutation in String
-[ ] Longest Repeating Character Replacement
-[ ] Longest Substring Without Repeating Characters
-[ ] Minimum Window Substring
+Sliding Window  
+[ ] Permutation in String  
+[ ] Longest Repeating Character Replacement  
+[ ] Longest Substring Without Repeating Characters  
+[ ] Minimum Window Substring  
 
-Stack
-[ ] Valid Parentheses
-[ ] Min Stack
-[ ] Next Greater Element
-[ ] Daily Temperatures
-[ ] Largest Rectangle in Histogram
+Stack  
+[ ] Valid Parentheses  
+[ ] Min Stack  
+[ ] Next Greater Element  
+[ ] Daily Temperatures  
+[ ] Largest Rectangle in Histogram  
 
-Binary Search
-[ ] Binary Search
-[ ] First/Last Position
-[ ] Search Rotated Array
-[ ] Koko Eating Bananas
-[ ] Split Array Largest Sum
-
+Binary Search  
+[ ] Binary Search  
+[ ] First/Last Position  
+[ ] Search Rotated Array   
+[ ] Koko Eating Bananas  
+[ ] Split Array Largest Sum  
+  
 ...
 
 
