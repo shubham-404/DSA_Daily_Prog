@@ -8,7 +8,9 @@ Reverse a linked list
 # Solution
 
 ### 1. Iterative
+
 This one is simple. Just use three nodes to mark prev, temp and next node, swap the next pointers, and keep doing until head is NULL.
+
 ```cpp
 ListNode* reverseList(ListNode* head) {
     if (head == NULL || head->next == NULL)
@@ -27,11 +29,13 @@ ListNode* reverseList(ListNode* head) {
 ```
 
 ### 2. Recursive
-Since I am new to recursion, this one felt a bit tricky. 
+
+Since I am new to recursion, this one felt a bit tricky.
 
 Basics: Recursion is breaking down a problem into smaller one, solving it and using its result to solve the bigger problem.
 
 From the last node, return it with its `next` as `NULL`, and use it to swap the `next` pointer at each recursion level.
+
 ```cpp
 ListNode* reverseList(ListNode* head) {
     if(head==NULL || head->next==NULL){

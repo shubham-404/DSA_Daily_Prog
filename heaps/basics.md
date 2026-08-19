@@ -3,7 +3,7 @@
 - Min Heap - parent node is smaller than the left, right, root is smallest
 - Max Heap - parent node is greater than the left, right, root is largest
 
-> It is interestingly implemented using arrays with the index of parent being `(i-1)/2 th` index, and index of the left child `2*i+1` and that of right child `2*i+2`.\
+> It is interestingly implemented using arrays with the index of parent being `(i-1)/2 th` index, and index of the left child `2*i+1` and that of right child `2*i+2`.
 > Index of the root node is `0`.
 
 ```

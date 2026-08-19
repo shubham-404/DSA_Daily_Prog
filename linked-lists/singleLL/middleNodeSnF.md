@@ -1,13 +1,14 @@
 # Problem
+
 We have to find the middle node of a given LL.
-Brute Force uses two traversals, one to find the length, another to find the middle element. 
+Brute Force uses two traversals, one to find the length, another to find the middle element.
 
 Ease Peezy!
 
+## Optimal
 
-## Optimal 
 Using Slow-Fast Pointer OR Tortoise-Hare Method.
-Use two pointers, 'slow' & 'fast' and move them simulatneously. 
+Use two pointers, 'slow' & 'fast' and move them simulatneously.
 
 Increment 'slow' once and 'fast' twice. So as the 'fast' reaches the end (NULL or last node), the slow automatically reaches the middle node.
 
@@ -21,5 +22,4 @@ ListNode* midNode(ListNode* head){
     }
     return slow;
 }
-
 ```

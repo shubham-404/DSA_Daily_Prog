@@ -1,5 +1,7 @@
 ## Book Allocation Problem
+
 Q. There are N books, each ith book has A[i] number of pages.
+
 - You have to allocate books to M number of students so that the maximum number of pages allocated to a student is minimum.
   - Each book should be allocated to a student.
   - Each student has to be allocated at least one book.
@@ -8,8 +10,10 @@ Q. There are N books, each ith book has A[i] number of pages.
 - Return -1 if a valid assignment is not possible.
 
 ## Example:
+
 arr = [2, 1, 3, 4], N=4, M=2
 total = 10
+
 - possible answers:
   - a) s1=2, s2=8  #max-pages=8
   - b) s1=3, s2=7  #max-pages=7
@@ -18,6 +22,7 @@ total = 10
 If M>N, return -1
 
 # Solution:
+
 apply BS on the range 0-sum(arr) as the answer definitely lies in-between.
 
 if mid -> invalid => answer lies in right half
@@ -25,6 +30,7 @@ if mid -> valid => answer can be current value, or may lie in left half(smaller)
 also design a function to check valid and invalid (check contigious allocation)
 
 ## code
+
 ```cpp
 bool isValid(vector<int> &arr, int n, int m, int maxAllowedPages){
     students=1, pages=0;
@@ -64,4 +70,4 @@ int allocateBooks(vector<int> &arr, int n, int m){
     }
     return ans;
 }
-
+```
